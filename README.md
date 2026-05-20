@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Maxilius0099
-- 👀 I’m interested in ... gizsgugya
-- 🌱 I’m currently learning ... pájton
-- 💞️ I’m looking to collaborate on ... igen
-- 📫 How to reach me ... ímél
-- 😄 Pronouns: ...croassant/him
+- 👋 Hi, I’m Miksa
+- 👀 I’m interested in ... Programming, Game design, Software engeneering
+- 🌱 I’m currently learning ... python, html/css, git
+- 📫 How to reach me ... email, github
 - ⚡ Fun fact: ...     
                                                                                    ..././--./../-/..././--.
 
